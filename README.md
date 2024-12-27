@@ -1,4 +1,1 @@
 - 👋 Hi, I’m Zac MacChesney
-- 👀 I’m an aspiring data scientist
-- 🌱 I’m currently learning how to scrape websites for data and produce insights
-- 📫 zacmacc@gmail.com
